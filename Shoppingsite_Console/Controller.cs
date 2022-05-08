@@ -2,7 +2,7 @@ using ShoppingSiteBusiness;
 using ConsoleTables;
 namespace ShoppingsiteConsole
 {
-     public partial class HomeController
+     public class HomeController
     {
         private string NewUserName="";
         private string NewPassword="";
